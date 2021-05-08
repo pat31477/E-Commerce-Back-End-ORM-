@@ -45,11 +45,17 @@
 
   ![Video Walkthrough](./assets/Run_App_Demo.gif?raw=true "Video Walkthrough")
 
-  ![Screen Shot1](./assets/AllEmployees.JPG?raw=true "Screen Shot1")
+  ![Screen Shot1](./assets/get_categories.JPG?raw=true "Screen Shot1")
 
-  ![Screen Shot2](./assets/AllDepts.JPG?raw=true "Screen Shot2")
+  ![Screen Shot2](./assets/get_products.JPG?raw=true "Screen Shot2")
 
-  ![Screen Shot3](./assets/AllRoles.JPG?raw=true "Screen Shot3")
+  ![Screen Shot3](./assets/get_tags.JPG?raw=true "Screen Shot3")
+
+  ![Screen Shot3](./assets/post_category.JPG?raw=true "Screen Shot3")
+
+  ![Screen Shot3](./assets/post_product.JPG?raw=true "Screen Shot3")
+
+  ![Screen Shot3](./assets/post_tag.JPG?raw=true "Screen Shot3")
 
  
  ## Links
